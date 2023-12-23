@@ -17,4 +17,7 @@
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="html5">
 </div>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cleilsonalvino&layout=compact)
+
 <p style="font-family: monospace;">Não é a linguagem de programação que define o programador, mas sim sua lógica</p>
+
