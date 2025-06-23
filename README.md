@@ -23,6 +23,10 @@
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript">
 </div>
 
+<div style="display: inline-block;">
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white](https://drive.google.com/file/d/1k-X4-WWp4sTQYBDkiC1UuYcU-soHFXzq/view?usp=drive_link" alt="typescript">
+</div>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cleilsonalvino&layout=compact)
 
 <p style="font-family: monospace;">Não é a linguagem de programação que define o programador, mas sim sua lógica</p>
