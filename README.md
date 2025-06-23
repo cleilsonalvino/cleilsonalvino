@@ -23,10 +23,6 @@
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript">
 </div>
 
-## Exemplo de imagem no README
-
-![Badge personalizado](https://drive.google.com/uc?export=view&id=1k-X4-WWp4sTQYBDkiC1UuYcU-soHFXzq)
-
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cleilsonalvino&layout=compact)
 
